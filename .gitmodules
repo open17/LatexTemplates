@@ -1,0 +1,3 @@
+[submodule "Journal/Bioinformatics"]
+	path = Journal/Bioinformatics
+	url = https://github.com/open17/BioinformaticsTemplate.git
